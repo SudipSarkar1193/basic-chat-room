@@ -18,7 +18,7 @@ A practice project to understand React better .
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/SudipSarkar1193/basic-chat-room.git
-   cd online-chatroom
+   
 
 ## Usage
 Open your browser and go to https://661808fbdc7cdf270d74daac--heroic-gumption-cc485d.netlify.app/
