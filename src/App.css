@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Galada&display=swap');
+
+::-webkit-scrollbar {
+    display: none;
+  }
+
+ 
+
+  .atma-light {
+    font-family: "Atma", system-ui;
+    font-weight: 300;
+    font-style:italic;
+    text-shadow:10px 10px 10px black;
+  }
+  
+  .copyright{
+    align-self: flex-end;
+    color: azure;
+  }
+  
+  .vstack{
+    transition: transform 0.5;
+  }
+  .signin{
+    box-shadow:5px 5px 4px black;
+  }
+  .signin:hover{
+    
+    transform: translatey(-10px);
+  }
+.modal{
+
+  transition: transform 0.5;
+  box-shadow:10px 10px 4px rgb(5, 5, 5);
+
+}
+.modal-button:hover{
+  transform: translatey(-10px);
+}
+
+.header{
+  
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 20px;
+}
+.header h3{
+  
+  color: aliceblue;
+  font-size: 25px;
+  text-align: center;
+  font-weight: 600;
+
+}
+.prodiv{
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 0;
+  border-radius: 5px;
+  padding: 2px 2px 2px 2px;
+}
